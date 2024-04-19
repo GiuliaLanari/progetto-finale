@@ -7,7 +7,6 @@ function App() {
   return (
     <BrowserRouter>
       <MyNavbar />
-
       <Routes>
         <Route path="" element="" />
       </Routes>
